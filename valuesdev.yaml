@@ -7,7 +7,7 @@ replicaCount: 2
 image:
   repository: felixcent/test-aks
   pullPolicy: IfNotPresent
-  tag: 23
+  tag: 19
 
 imagePullSecrets: []
 nameOverride: ""
